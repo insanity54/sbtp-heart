@@ -24,8 +24,5 @@
     "@geist-ui/core": "^2.3.8",
     "precious-data": "^1.1.0",
     "react-table": "^7.8.0"
-  },
-  "engines": {
-    "node": ">= 18.12.0"
   }
 }
